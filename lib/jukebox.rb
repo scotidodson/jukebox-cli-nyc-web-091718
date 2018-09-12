@@ -66,3 +66,4 @@ def run(command)
   puts exit_jukebox
 end 
 
+run(command)
